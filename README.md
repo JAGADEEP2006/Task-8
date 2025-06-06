@@ -1,4 +1,4 @@
-# task8_karthikeyan
+# task8_jagadeep
 # 🧠 K-Means Clustering (No Sklearn)
 
 This project implements the **K-Means Clustering Algorithm** from scratch using **only NumPy, Matplotlib, and basic Python** — without relying on external machine learning libraries like `sklearn`.
